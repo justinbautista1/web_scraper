@@ -21,6 +21,8 @@ def get_urls(soup_content: Tag | BeautifulSoup) -> list[str]:
     for url in main_anchors:
         href = url.get("href")
 
+        # only allow urls within domain
+        # some hrefs are just the url paths, therefore accept those
         if href and (href[0] == "/" or DOMAIN in href):
             main_urls.add(format_url(href))
 
@@ -63,12 +65,16 @@ def scrape_page(url: str) -> dict[str, str | list[str]] | None:
     split_url = url.split(".")
     page = {}
 
+    # split urls > 3 indicate its a file url, where the last split is the file extension
     if len(split_url) > 3 and split_url[-1] == "pdf":
+        page["title"] = url.split("/")[-1]
         page["text"] = get_pdf_text(url)
         page["child_pages"] = []
+    # makes sure its a normal url
     elif len(split_url) == 3:
         soup = get_soup(url)
         content = soup.find("div", {"id": "page-content"})
+        page["title"] = soup.find("title").string
         page["text"] = get_text(content)
 
         targeted_content = content.find("article")
@@ -80,24 +86,6 @@ def scrape_page(url: str) -> dict[str, str | list[str]] | None:
 
 
 ##### MAIN CODE #####
-
-# main_soup = get_soup("https://www.njcourts.gov/jury-reporting-messages/bergen")
-
-# main_content = main_soup.find("div", {"id": "page-content"})
-# main_urls = get_urls(main_content)
-# main_text = get_text(main_content)
-
-# subpages_text = {}
-# for url in main_urls:
-# split_url = url.split(".")
-
-# if len(split_url) > 3 and split_url[-1] == "pdf":
-#     subpages_text[url] = get_pdf_text(url)
-# elif len(split_url) == 3:
-#     soup = get_soup(url)
-#     content = soup.find("div", {"id": "page-content"})
-#     text = get_text(content)
-#     subpages_text[url] = text
 
 # Script for specifically https://www.njcourts.gov/jurors/reporting
 MAIN_URL = "https://www.njcourts.gov/jurors/reporting"
@@ -111,10 +99,10 @@ pages = {}
 """
 {
     url: {
-        title: asd,
-        text:asd,
-        parent_page:asd or null,
-        child_pages:[asd]
+        title: "title"
+        text: "text",
+        parent_page: "parent page",
+        child_pages: ["child page", ...]
     }, ...
 }
 """
@@ -160,7 +148,7 @@ for url in page_urls:
     page_process_counter += 1
     print(f"Parent Page Scraped: {url}")
 
-print(f"Pages Scraped: [{page_process_counter}/{len(page_urls)}]")
+print(f"Parent Pages Scraped: [{page_process_counter}/{len(page_urls)}]")
 print(f"Pages Skipped: [{skipped_page_counter}/{len(page_urls)}]")
 
 with open("scraped_data.json", "w", encoding="utf-8") as f:
