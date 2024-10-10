@@ -1,99 +1,20 @@
 import json
 
-import pymupdf
-import requests
-from bs4 import BeautifulSoup, Tag
+import matplotlib.pyplot as plt
+import networkx as nx
 
-DOMAIN = "https://www.njcourts.gov"
+import utils
 
-
-def format_url(url: str) -> str:
-    if url[0] == "/":
-        return DOMAIN + url
-
-    return url
-
-
-def get_urls(soup_content: Tag | BeautifulSoup) -> list[str]:
-    main_anchors = soup_content.find_all("a")
-    main_urls = set()
-
-    for url in main_anchors:
-        href = url.get("href")
-
-        # only allow urls within domain
-        # some hrefs are just the url paths, therefore accept those
-        if href and (href[0] == "/" or DOMAIN in href):
-            main_urls.add(format_url(href))
-
-    return list(main_urls)
-
-
-def get_pdf_text(pdf_link: str) -> str:
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
-    }
-
-    stream = requests.get(pdf_link, headers=headers)
-
-    pdf = pymupdf.open(stream=stream.content, filetype="pdf")
-    text = ""
-    for page in pdf:
-        text += page.get_text()
-    pdf.close()
-
-    return text.encode("ascii", "ignore").decode()
-
-
-def get_text(soup_content: Tag | BeautifulSoup) -> str:
-    return soup_content.text.encode("ascii", "ignore").decode()
-
-
-def get_soup(url: str) -> BeautifulSoup:
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
-        "Content-Type": "text/html",
-    }
-
-    page = requests.get(url, headers=headers)
-    soup = BeautifulSoup(page.content, "html.parser")
-
-    return soup
-
-
-def scrape_page(url: str) -> dict[str, str | list[str]] | None:
-    split_url = url.split(".")
-    page = {}
-
-    # split urls > 3 indicate its a file url, where the last split is the file extension
-    if len(split_url) > 3 and split_url[-1] == "pdf":
-        page["title"] = url.split("/")[-1]
-        page["text"] = get_pdf_text(url)
-        page["child_pages"] = []
-    # makes sure its a normal url
-    elif len(split_url) == 3:
-        soup = get_soup(url)
-        content = soup.find("div", {"id": "page-content"})
-        page["title"] = soup.find("title").string
-        page["text"] = get_text(content)
-
-        targeted_content = content.find("article")
-        page["child_pages"] = get_urls(targeted_content)
-    else:
-        return None
-
-    return page
-
-
-##### MAIN CODE #####
+G = nx.Graph()
 
 # Script for specifically https://www.njcourts.gov/jurors/reporting
 MAIN_URL = "https://www.njcourts.gov/jurors/reporting"
-main_soup = get_soup(MAIN_URL)
+main_soup = utils.get_soup(MAIN_URL)
 main_content = main_soup.find("div", {"id": "page-content"})
-page_urls = get_urls(main_content)
+page_urls = utils.get_urls(main_content)
 
 print(f"Fetched Pages From {MAIN_URL}: {page_urls}")
+G.add_node(MAIN_URL)
 
 pages = {}
 """
@@ -114,34 +35,47 @@ for url in page_urls:
     # top level
     print("----------------------------")
     if url in pages:
+        G.add_edge(MAIN_URL, url)
         print(f"Parent Page Already Scraped {url}...")
         skipped_page_counter += 1
         continue
 
     print(f"Scraping Parent Page {url}...")
 
-    page = scrape_page(url)
+    page = utils.scrape_page(url)
     if not page:
         continue
 
+    G.add_node(url)
+    G.add_edge(MAIN_URL, url)
     page["parent_page"] = MAIN_URL
     pages[url] = page
 
     # lower level
     for child_url in page["child_pages"]:
         if child_url in pages:
+            G.add_edge(child_url, url)
             print(f"Child Page Already Scraped {child_url}...")
             skipped_page_counter += 1
             continue
 
         print(f"Scraping Child Page {child_url}...")
 
-        child_page = scrape_page(child_url)
+        child_page = utils.scrape_page(child_url)
         if not child_page:
             continue
 
+        G.add_node(child_url)
+        G.add_edge(child_url, url)
         child_page["parent_page"] = url
         pages[child_url] = child_page
+
+        for sub_url in child_page["child_pages"]:
+            if sub_url in pages:
+                G.add_edge(child_url, sub_url)
+
+            G.add_node(sub_url)
+            G.add_edge(child_url, sub_url)
 
         print(f"Child Page Scraped: {child_url}")
 
@@ -151,5 +85,8 @@ for url in page_urls:
 print(f"Parent Pages Scraped: [{page_process_counter}/{len(page_urls)}]")
 print(f"Pages Skipped: [{skipped_page_counter}/{len(page_urls)}]")
 
-with open("scraped_data.json", "w", encoding="utf-8") as f:
+nx.draw(G)
+plt.show()
+
+with open("scraped_data_2.json", "w", encoding="utf-8") as f:
     json.dump(pages, f)
