@@ -77,6 +77,16 @@ def get_pdf_text(pdf_link: str) -> str:
 
 
 def get_soup(url: str) -> BeautifulSoup:
+    """
+    Get soup from url
+
+    Args:
+        url (str): url
+
+    Returns:
+        BeautifulSoup: soup
+    """
+
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
         "Content-Type": "text/html",
@@ -89,6 +99,16 @@ def get_soup(url: str) -> BeautifulSoup:
 
 
 def scrape_page(url: str) -> dict[str, str | list[str]] | None:
+    """
+    Scrape page by extracting text and urls (only text for pdfs)
+
+    Args:
+        url (str): url to page to pdf
+
+    Returns:
+        dict[str, str | list[str]] | None: page object
+    """
+
     split_url = url.split(".")
     page = {}
 
