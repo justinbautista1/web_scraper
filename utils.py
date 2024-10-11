@@ -112,9 +112,9 @@ def scrape_page(url: str) -> dict[str, str | list[str]] | None:
     split_url = url.split(".")
     page = {}
 
-    # split urls > 3 indicate its a file url, where the last split is the file extension
-    if len(split_url) > 3 and split_url[-1] == "pdf":
-        page["title"] = url.split("/")[-1]
+    # split urls > 3 indicate its a file url, where the only pdfs are accepted
+    if len(split_url) > 3 and "pdf" in url:
+        page["title"] = url.split("/")[-1].split("?")[0]
         page["text"] = get_pdf_text(url)
         page["child_pages"] = []
     # makes sure its a normal url
