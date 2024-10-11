@@ -1,10 +1,15 @@
 import json
 import logging
+import os
 import time
 
 import colorlog
+import dotenv
+from azure.storage.blob import ContainerClient
 
 import utils
+
+dotenv.load_dotenv()
 
 # initialize logger and custom formatter for INFO logs
 logger = logging.getLogger(__name__)
@@ -45,7 +50,7 @@ file_formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 file_handler.setFormatter(file_formatter)
 logger.addHandler(file_handler)
 
-# script starts
+#### SCRIPT STARTS ####
 script_start = time.time()
 
 MAIN_URL = "https://www.njcourts.gov/jurors"
@@ -61,7 +66,8 @@ pages = {}
 #         title: "title"
 #         text: "text",
 #         parent_pages: ["parent page", ...],
-#         child_pages: ["child page", ...]
+#         child_pages: ["child page", ...],
+#         isFile: bool
 #     }, ...
 # }
 
@@ -120,7 +126,22 @@ avg_time = str(sum(scraping_times) / pages_scraped)
 logger.info("--------------------------------------------------")
 logger.info("Script Total Time: %s seconds", total_time)
 logger.info("Average Scraping Time Per Page: %s seconds", avg_time)
+logger.info("Total Pages Scraped: %s", str(pages_scraped))
 logger.info("--------------------------------------------------")
 
 with open("scraped_data.json", "w", encoding="utf-8") as f:
     json.dump(pages, f)
+
+container_client = ContainerClient.from_connection_string(
+    conn_str=os.getenv("AZURE_STORAGE_CONN_STR"), container_name="internet-jury"
+)
+
+upload_start = time.time()
+utils.upload_to_blob(container_client, pages)
+upload_end = time.time()
+
+upload_time = upload_end - upload_start
+
+logger.info("Uploading to blob storage...")
+logger.info("Uploading Time: %s seconds", upload_time)
+logger.info("--------------------------------------------------")

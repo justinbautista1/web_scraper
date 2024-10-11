@@ -1,8 +1,13 @@
-import pymupdf
+import base64
+import json
+
 import requests
+from azure.storage.blob import ContainerClient
 from bs4 import BeautifulSoup, Tag
 
 DOMAIN = "https://www.njcourts.gov"
+
+Page = dict[str, str | list[str] | bool]
 
 
 def format_url(url: str) -> str:
@@ -50,32 +55,6 @@ def get_urls(soup_content: Tag | BeautifulSoup) -> list[str]:
     return list(main_urls)
 
 
-def get_pdf_text(pdf_link: str) -> str:
-    """
-    Parses pdf text from a pdf link
-
-    Args:
-        pdf_link (str): link to pdf
-
-    Returns:
-        str: pdf text
-    """
-
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
-    }
-
-    stream = requests.get(pdf_link, headers=headers)
-
-    pdf = pymupdf.open(stream=stream.content, filetype="pdf")
-    text = ""
-    for page in pdf:
-        text += page.get_text()
-    pdf.close()
-
-    return text
-
-
 def get_soup(url: str) -> BeautifulSoup:
     """
     Get soup from url
@@ -98,12 +77,12 @@ def get_soup(url: str) -> BeautifulSoup:
     return soup
 
 
-def scrape_page(url: str) -> dict[str, str | list[str]] | None:
+def scrape_page(url: str) -> Page | None:
     """
-    Scrape page by extracting text and urls (only text for pdfs)
+    Scrape page by extracting text and urls
 
     Args:
-        url (str): url to page to pdf
+        url (str): url
 
     Returns:
         dict[str, str | list[str]] | None: page object
@@ -112,11 +91,12 @@ def scrape_page(url: str) -> dict[str, str | list[str]] | None:
     split_url = url.split(".")
     page = {}
 
-    # split urls > 3 indicate its a file url, where the only pdfs are accepted
-    if len(split_url) > 3 and "pdf" in url:
+    # split urls > 3 indicate its a file url
+    if len(split_url) > 3:
         page["title"] = url.split("/")[-1].split("?")[0]
-        page["text"] = get_pdf_text(url)
+        page["text"] = ""
         page["child_pages"] = []
+        page["isFile"] = True
     # makes sure its a normal url
     elif len(split_url) == 3:
         soup = get_soup(url)
@@ -124,7 +104,38 @@ def scrape_page(url: str) -> dict[str, str | list[str]] | None:
         page["title"] = soup.find("title").string
         page["text"] = content.text
         page["child_pages"] = get_urls(content)
+        page["isFile"] = False
     else:
         return None
 
     return page
+
+
+def upload_to_blob(container_client: ContainerClient, pages: dict[Page]) -> None:
+    for page_url, page_content in pages.items():
+        metadata = {"url": page_url}
+        metadata.update(page_content)
+        encoded_bytes = base64.b64encode(page_url.encode("utf-8"))
+        encoded_str = encoded_bytes.decode("utf-8").rstrip("=")
+
+        if page_content["isFile"]:
+            filename = page_content["title"]
+            metadata.pop("text")
+            metadata["parent_pages"] = str(metadata["parent_pages"])
+            metadata["child_pages"] = str(metadata["child_pages"])
+            metadata["isFile"] = str(metadata["isFile"])
+
+            blob_name = f"{encoded_str}_{filename}"
+            blob_client = container_client.get_blob_client(blob_name)
+            blob_client.upload_blob_from_url(page_url)
+            blob_client.set_blob_metadata(metadata)
+        else:
+            data = json.dumps(metadata)
+            metadata.pop("text")
+            metadata["parent_pages"] = str(metadata["parent_pages"])
+            metadata["child_pages"] = str(metadata["child_pages"])
+            metadata["isFile"] = str(metadata["isFile"])
+
+            blob_name = f"{encoded_str}.json"
+            blob_client = container_client.get_blob_client(blob_name)
+            blob_client.upload_blob(data, metadata=metadata)
