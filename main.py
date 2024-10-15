@@ -117,6 +117,8 @@ while page_stack:
 
         logger.info("<COMPLETED PAGE>: %s", url["url"])
     else:
+        if url["parent_url"] not in pages[url["url"]]["parent_pages"]:
+            pages[url["url"]]["parent_pages"].append(url["parent_url"])
         logger.info("<PREVIOUSLY SCRAPED PAGE>: %s", url["url"])
 
 script_end = time.time()

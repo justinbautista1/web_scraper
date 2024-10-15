@@ -119,15 +119,15 @@ def upload_to_blob(container_client: ContainerClient, pages: dict[Page]) -> None
         encoded_str = encoded_bytes.decode("utf-8").rstrip("=")
 
         if page_content["isFile"]:
-            filename = page_content["title"]
+            file_extension = page_content["title"].split(".")[-1]
             metadata.pop("text")
             metadata["parent_pages"] = str(metadata["parent_pages"])
             metadata["child_pages"] = str(metadata["child_pages"])
             metadata["isFile"] = str(metadata["isFile"])
 
-            blob_name = f"{encoded_str}_{filename}"
+            blob_name = f"{encoded_str}.{file_extension}"
             blob_client = container_client.get_blob_client(blob_name)
-            blob_client.upload_blob_from_url(page_url)
+            blob_client.upload_blob_from_url(page_url, overwrite=True)
             blob_client.set_blob_metadata(metadata)
         else:
             data = json.dumps(metadata)
@@ -138,4 +138,4 @@ def upload_to_blob(container_client: ContainerClient, pages: dict[Page]) -> None
 
             blob_name = f"{encoded_str}.json"
             blob_client = container_client.get_blob_client(blob_name)
-            blob_client.upload_blob(data, metadata=metadata)
+            blob_client.upload_blob(data, metadata=metadata, overwrite=True)
