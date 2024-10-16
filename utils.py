@@ -96,15 +96,20 @@ def scrape_page(url: str) -> Page | None:
         page["title"] = url.split("/")[-1].split("?")[0]
         page["text"] = ""
         page["child_pages"] = []
-        page["isFile"] = True
+        page["is_file"] = True
     # makes sure its a normal url
     elif len(split_url) == 3:
         soup = get_soup(url)
         content = soup.find("div", {"id": "page-content"})
         page["title"] = soup.find("title").string
-        page["text"] = content.text
+        page["is_file"] = False
+        page["text"] = (
+            content.text.replace("\n", " ").replace("\r", " ").replace("\t", " ").replace("  ", " ").replace("  ", " ")
+        )
+
         page["child_pages"] = get_urls(content)
-        page["isFile"] = False
+        if url in page["child_pages"]:
+            page["child_pages"].remove(url)
     else:
         return None
 
@@ -118,23 +123,29 @@ def upload_to_blob(container_client: ContainerClient, pages: dict[Page]) -> None
         encoded_bytes = base64.b64encode(page_url.encode("utf-8"))
         encoded_str = encoded_bytes.decode("utf-8").rstrip("=")
 
-        if page_content["isFile"]:
+        if page_content["is_file"]:
             file_extension = page_content["title"].split(".")[-1]
             metadata.pop("text")
             metadata["parent_pages"] = str(metadata["parent_pages"])
             metadata["child_pages"] = str(metadata["child_pages"])
-            metadata["isFile"] = str(metadata["isFile"])
+            metadata["is_file"] = str(metadata["is_file"])
 
             blob_name = f"{encoded_str}.{file_extension}"
             blob_client = container_client.get_blob_client(blob_name)
             blob_client.upload_blob_from_url(page_url, overwrite=True)
             blob_client.set_blob_metadata(metadata)
         else:
-            data = json.dumps(metadata)
+            data = {}
+            data.update(metadata)
+            data.pop("child_pages")
+            data.pop("parent_pages")
+            data.pop("is_file")
+            data = json.dumps(data)
+
             metadata.pop("text")
             metadata["parent_pages"] = str(metadata["parent_pages"])
             metadata["child_pages"] = str(metadata["child_pages"])
-            metadata["isFile"] = str(metadata["isFile"])
+            metadata["is_file"] = str(metadata["is_file"])
 
             blob_name = f"{encoded_str}.json"
             blob_client = container_client.get_blob_client(blob_name)

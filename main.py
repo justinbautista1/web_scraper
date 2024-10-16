@@ -60,6 +60,7 @@ page_urls = utils.get_urls(main_content)
 
 logger.info("Fetched Pages From %s: %s", MAIN_URL, page_urls)
 
+page_stack = [{"url": url, "parent_url": MAIN_URL} for url in page_urls]
 pages = {}
 # {
 #     url: {
@@ -67,11 +68,9 @@ pages = {}
 #         text: "text",
 #         parent_pages: ["parent page", ...],
 #         child_pages: ["child page", ...],
-#         isFile: bool
+#         is_file: bool
 #     }, ...
 # }
-
-page_stack = [{"url": url, "parent_url": MAIN_URL} for url in page_urls]
 
 # to prevent overscraping
 # restrict going to anything under these links
@@ -83,7 +82,6 @@ pages_to_ignore = [
     "https://www.njcourts.gov/courts",
     "https://www.njcourts.gov/public",
 ]
-
 
 pages_scraped = 0
 scraping_times = []
@@ -117,7 +115,7 @@ while page_stack:
 
         logger.info("<COMPLETED PAGE>: %s", url["url"])
     else:
-        if url["parent_url"] not in pages[url["url"]]["parent_pages"]:
+        if url["parent_url"] not in pages[url["url"]]["parent_pages"] and url["parent_url"] != url["url"]:
             pages[url["url"]]["parent_pages"].append(url["parent_url"])
         logger.info("<PREVIOUSLY SCRAPED PAGE>: %s", url["url"])
 
