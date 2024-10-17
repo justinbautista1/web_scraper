@@ -1,0 +1,18 @@
+{
+    "intent": "Jury_Service_Lost_My_Juror_Summons",
+    "questions": [
+        "can you tell me What Should I Do If I Lost My Juror Questionnaire/Summons?",
+        "I cannot find my juror summons",
+        "I can't find my juror questionnaire what should I do?",
+        "If I don't know where my juror questionnaire what should I do",
+        "I lost my juror summons what should I do?",
+        "I misplaced my questionnaire what should I do?",
+        "I really need to know What Should I Do If I Lost My Juror Questionnaire/Summons?",
+        "Is there a way to discover What Should I Do If I Lost My Juror Questionnaire/Summons?",
+        "please let me know What Should I Do If I Lost My Juror Questionnaire/Summons?",
+        "What Should I Do If I Lost My Juror Questionnaire/Summons?"
+    ],
+    "answers": [
+        "If you misplace your juror questionnaire/summons, you should immediately contact the Jury Manager in your county. To access a list of Jury Managers, with e-mail addresses and phone numbers <a href=\"https://https://www.njcourts.gov/jurors/contact\">click here</a>"
+    ]
+}

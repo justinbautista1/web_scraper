@@ -1,0 +1,10 @@
+{
+    "intent": "Jury_Service_Verification_For_My_Employer",
+    "questions": [
+        "Can I Get Verification For My Employer Of the Dates That I Served?",
+        "will I get documentation for my employer that I served on jury duty?"
+    ],
+    "answers": [
+        "The Jury Management Office can provide written verification for you and/or your employer that will show each date that you served as a juror. If you do not receive that document while at the courthouse during your juror service, you may request it later but please note that the request needs to come from you or from your employer on company letterhead. The verification document will be mailed to the juror's address. "
+    ]
+}

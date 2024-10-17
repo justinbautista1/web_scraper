@@ -1,0 +1,12 @@
+{
+    "intent": "Jury_Service_Summons_While_On_Unemployment",
+    "questions": [
+        "Does serving on petit jury, grand jury, or state grand jury effect my unemployment eligibility?�",
+        "Do I Remain Eligible For Unemployment Benefits During My Service As a Petit Juror,Grand Juror, or State Grand Juror?",
+        "I am unemployed but have an interview scheduled for same day as jury duty what can I do?",
+        "I received a jury summons while on unemployment what should I do?"
+    ],
+    "answers": [
+        "Yes, you remain eligible for unemployment benefits. They are not affected by service as a juror. Please note, verification may be required."
+    ]
+}

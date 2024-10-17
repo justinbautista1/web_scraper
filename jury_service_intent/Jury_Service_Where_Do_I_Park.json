@@ -1,0 +1,20 @@
+{
+    "intent": "Jury_Service_Where_Do_I_Park",
+    "questions": [
+        "hello where can I park for jury duty?",
+        "Hi can I find out where to park for jury duty",
+        "hi where will I park for jury duty?",
+        "Hi will I be told where to park for jury duty?",
+        "How do I know where to park for jury duty?",
+        "how will I know where to park for jury duty",
+        "i am a juror and do not know which courthouse to go to?",
+        "I am going to jury duty and never done this for grand juror...I am confused as to which courthouse to go to in Essex County?",
+        "I don't know where to park for jury duty what can I do?",
+        "I have jury duty where can I park",
+        "parking for jury duty",
+        "Where do I park for jury duty?"
+    ],
+    "answers": [
+        "You may contact the jury management information contact listed on the jury summons you have received for parking information. Each county vicinage/courthouse can provide information pertaining to parking for their respective courthouse."
+    ]
+}

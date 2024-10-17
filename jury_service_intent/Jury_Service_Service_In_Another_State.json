@@ -1,0 +1,10 @@
+{
+    "intent": "Jury_Service_Service_In_Another_State",
+    "questions": [
+        "Does Recent Service In Another State Excuse Me From Serving In New Jersey?",
+        "will serving on foreign gran juries excuse me from serving on a jury in New Jersey?"
+    ],
+    "answers": [
+        "Recent service in another state does not excuse you from serving in New Jersey. Please be aware that it will take some time for your name to be added to the four lists that provide names for random selection as jurors. You may also request a postponement [for up to a year] of your scheduled service. To request a postponement, you can do so via the Juror eResponse Portal found <a href=\"https://https://www.njcourts.gov/myjuryservice/mobileWelcome.aspx?val=N\">here</a>"
+    ]
+}

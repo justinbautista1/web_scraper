@@ -1,0 +1,10 @@
+{
+    "intent": "Jury_Service_Lists_Used_As_Source_For_Jurors",
+    "questions": [
+        "Do they use lists to select the source for prospective jurors?",
+        "What Lists Are Used As the Source For Jurors?"
+    ],
+    "answers": [
+        "The Judiciary is required by statute to create a single list for juror selection that combines names of registered voters, licensed drivers, filers of N.J. personal income tax returns, and applicants for homestead rebates. "
+    ]
+}

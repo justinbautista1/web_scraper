@@ -1,0 +1,10 @@
+{
+    "intent": "Jury_Service_Grand_Jury_Info",
+    "questions": [
+        "I received a grand jury notice what is the grand jury?",
+        "What is a Grand Jury?"
+    ],
+    "answers": [
+        "Grand jurors determine whether there is sufficient evidence to move forward with criminal charges against a defendant. State Grand Jury and county grand jury operate similarly but the State Grand Jury has statewide jurisdiction and representation and meets in Trenton rather than one of the county seats."
+    ]
+}

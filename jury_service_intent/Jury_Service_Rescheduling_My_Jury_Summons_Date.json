@@ -1,0 +1,12 @@
+{
+    "intent": "Jury_Service_Rescheduling_My_Jury_Summons_Date",
+    "questions": [
+        "can my jury date be postponed?",
+        "How can I have my jury summons date rescheduled?",
+        "How do I go about rescheduling my jury Summons Date?",
+        "I need to change my summons date what should I do?"
+    ],
+    "answers": [
+        "If there is a problem or you have a conflict with the days for which you have been summoned, you may request to have your service rescheduled to a later date via the Juror eResponse Portal. To access the portal, <a href=\"https://www.njcourts.gov/myjuryservice/mobileWelcome.aspx?val=N\">click here</a>"
+    ]
+}

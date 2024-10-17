@@ -1,0 +1,13 @@
+{
+    "intent": "Jury_Service_Juror_Call_Off_System",
+    "questions": [
+        "I don't know what juror call off system is?",
+        "I need to call off jury service?",
+        "Juror call off system",
+        "What Is the Juror Call-Off System?",
+        "where can I find the juror call-off system number?"
+    ],
+    "answers": [
+        "Juror Call-off is a notification process used only for Petit Jurors, not Grand or State Grand Jurors. It provides notification to jurors the night before their reporting date on whether they will need to report to courthouse. To determine if you are required to report as summoned, you must call the Jury Management Office on your notice, or verify via the Check Jury Reporting page listed by county. To access,  <a href=\"https://https://www.njcourts.gov/jurors/reporting\">click here</a>"
+    ]
+}

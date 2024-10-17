@@ -14882,3 +14882,1571 @@
 2024-10-16 16:07:18,532 - INFO - Uploading to blob storage...
 2024-10-16 16:07:18,532 - INFO - Uploading Time: 4.086452484130859 seconds
 2024-10-16 16:07:18,532 - INFO - --------------------------------------------------
+2024-10-17 09:19:45,827 - INFO - Fetched Pages From https://www.njcourts.gov/jurors: ['https://www.njcourts.gov/jurors/faq', 'https://www.njcourts.gov/videoconference-instructions', 'https://www.njcourts.gov/jurors/service', 'https://www.njcourts.gov/jurors/reporting', 'https://www.njcourts.gov/excusal-requests', 'https://www.njcourts.gov/rescheduling-requests', 'https://www.njcourts.gov/general-jury-information', 'https://www.njcourts.gov/jurors/contact', 'https://www.njcourts.gov/new-jersey-state-grand-jury']
+2024-10-17 09:19:45,827 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury...
+2024-10-17 09:19:45,990 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 09:19:45,991 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/videoconference-instructions...
+2024-10-17 09:19:46,272 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 09:19:46,272 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 09:19:46,273 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomandroid.pdf...
+2024-10-17 09:19:46,273 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomandroid.pdf
+2024-10-17 09:19:46,274 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors/contact...
+2024-10-17 09:19:46,397 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:19:46,398 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/somerset-hunterdon-warren
+2024-10-17 09:19:46,398 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/union
+2024-10-17 09:19:46,399 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/ocean
+2024-10-17 09:19:46,400 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/atlantic-cape-may
+2024-10-17 09:19:46,400 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/essex
+2024-10-17 09:19:46,401 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/atlantic-city
+2024-10-17 09:19:46,401 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/cumberland-gloucester-salem
+2024-10-17 09:19:46,402 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors/service...
+2024-10-17 09:19:47,735 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:19:47,735 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 09:19:47,735 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 09:19:47,735 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:19:47,735 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/rescheduling-requests...
+2024-10-17 09:19:47,859 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 09:19:47,859 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 09:19:47,859 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 09:19:47,859 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:19:47,859 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/excusal-requests...
+2024-10-17 09:19:47,979 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 09:19:47,979 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 09:19:47,979 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 09:19:47,979 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:19:47,979 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 09:19:47,979 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors/reporting...
+2024-10-17 09:19:48,082 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:19:48,082 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris...
+2024-10-17 09:19:50,496 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:19:50,496 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex...
+2024-10-17 09:19:53,584 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:19:53,584 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:19:53,584 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset...
+2024-10-17 09:19:53,828 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:19:53,828 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:19:53,828 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:19:53,828 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester...
+2024-10-17 09:19:56,305 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:19:56,306 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:19:56,306 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:19:56,307 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:19:56,307 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem...
+2024-10-17 09:19:59,564 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:19:59,565 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:19:59,566 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:19:59,566 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:19:59,566 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:19:59,567 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may...
+2024-10-17 09:20:02,941 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:02,942 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:02,942 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:02,943 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:02,943 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:02,943 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:02,944 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf...
+2024-10-17 09:20:02,944 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:02,944 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon...
+2024-10-17 09:20:06,378 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:06,378 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:06,378 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:06,378 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:06,378 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:06,378 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:06,394 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:06,394 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:06,394 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington...
+2024-10-17 09:20:06,503 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:06,503 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:06,503 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:06,503 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:06,503 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:06,503 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:06,503 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:06,503 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:06,503 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:06,511 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer...
+2024-10-17 09:20:09,538 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:09,538 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:09,539 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:09,539 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:09,540 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:09,540 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:09,541 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:09,541 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:09,542 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:09,542 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:09,542 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren...
+2024-10-17 09:20:12,713 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:12,713 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:12,713 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:12,713 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:12,713 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:12,713 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:12,713 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:12,713 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:12,728 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:12,728 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:12,728 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:12,729 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury...
+2024-10-17 09:20:15,288 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:15,288 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:15,289 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:15,289 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:15,290 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:15,290 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:15,291 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:15,291 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:15,292 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:15,292 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:15,292 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:15,293 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/union...
+2024-10-17 09:20:17,882 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:17,882 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:17,882 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen...
+2024-10-17 09:20:19,559 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:19,559 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:19,559 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland...
+2024-10-17 09:20:21,992 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:21,992 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:22,001 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic...
+2024-10-17 09:20:22,096 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:22,096 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:22,096 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:22,096 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:22,096 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:22,096 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:22,111 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:22,111 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:22,112 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:22,112 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:22,113 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:22,113 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:22,114 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:22,114 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:22,114 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:22,115 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:22,115 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:22,115 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson...
+2024-10-17 09:20:24,741 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:24,741 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:24,742 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:24,742 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:24,743 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:24,744 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:24,744 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:24,744 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:24,745 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:24,746 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:24,746 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:24,746 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:24,748 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:24,749 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:24,749 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:24,749 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:24,750 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/public/news-media/court-closings
+2024-10-17 09:20:24,750 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:24,751 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:24,752 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth...
+2024-10-17 09:20:28,393 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:28,393 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:28,393 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:28,393 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:28,393 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:28,404 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:28,404 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:28,404 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:28,404 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:28,404 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:28,404 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:28,404 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:28,404 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:28,408 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:28,408 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:28,408 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:28,410 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:28,410 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:28,410 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:28,412 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex...
+2024-10-17 09:20:31,399 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:31,400 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:31,401 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:31,401 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:31,402 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:31,402 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:31,403 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:31,403 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:31,404 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:31,404 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:31,405 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:31,405 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:31,406 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:31,406 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:31,407 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:31,407 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:31,408 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:31,408 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:31,408 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:31,409 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:31,409 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic...
+2024-10-17 09:20:33,851 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:33,851 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:33,851 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:33,851 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:33,851 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:33,863 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:33,864 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:33,864 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:33,865 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:33,865 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:33,866 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:20:33,867 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:33,867 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:33,868 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:33,868 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:33,868 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:33,869 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:33,869 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:33,869 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:33,870 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:33,870 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:33,871 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:33,871 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:33,871 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden...
+2024-10-17 09:20:36,329 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:36,329 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:36,342 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:36,342 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:36,342 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:36,344 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:36,344 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:36,344 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:36,344 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:36,345 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:36,345 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean...
+2024-10-17 09:20:39,028 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:39,028 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:39,043 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:39,044 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:39,044 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:39,045 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:39,045 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:39,046 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:39,047 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:39,047 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:39,048 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:39,048 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex...
+2024-10-17 09:20:42,339 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:42,340 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 09:20:42,340 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:42,341 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:42,342 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:42,343 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:42,343 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:42,343 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:42,344 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:42,345 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:42,345 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:42,345 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:42,345 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:42,346 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:42,346 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:42,346 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:42,347 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:42,348 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:42,348 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:42,349 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:42,349 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:42,349 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:42,349 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:42,350 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:42,350 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:42,351 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors/faq...
+2024-10-17 09:20:46,023 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,024 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 09:20:46,025 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 09:20:46,025 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors/faq#493196...
+2024-10-17 09:20:46,318 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors/faq#493196
+2024-10-17 09:20:46,319 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 09:20:46,320 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 09:20:46,321 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,322 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 09:20:46,323 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 09:20:46,323 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,324 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/general-jury-information...
+2024-10-17 09:20:46,450 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 09:20:46,451 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 09:20:46,451 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 09:20:46,452 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,453 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 09:20:46,454 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 09:20:46,454 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,455 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:20:46,456 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/public/news-media/court-closings
+2024-10-17 09:20:46,457 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors...
+2024-10-17 09:20:46,607 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 09:20:46,607 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 09:20:46,608 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,608 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 09:20:46,609 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 09:20:46,610 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 09:20:46,610 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,610 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:20:46,610 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 09:20:46,611 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,611 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,611 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:20:46,611 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 09:20:46,611 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/public/news-media/court-closings
+2024-10-17 09:20:46,611 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/quickreferenceguide-jury.pdf...
+2024-10-17 09:20:46,612 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/quickreferenceguide-jury.pdf
+2024-10-17 09:20:46,612 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/forms/12255_jury_financial_hardship.pdf...
+2024-10-17 09:20:46,612 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12255_jury_financial_hardship.pdf
+2024-10-17 09:20:46,613 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 09:20:46,614 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/forms/12140_jury_duty_childcare.pdf...
+2024-10-17 09:20:46,614 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12140_jury_duty_childcare.pdf
+2024-10-17 09:20:46,615 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,615 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/forms/12308_physician_cert.pdf...
+2024-10-17 09:20:46,616 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12308_physician_cert.pdf
+2024-10-17 09:20:46,616 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,617 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 09:20:46,617 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 09:20:46,617 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,617 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 09:20:46,618 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:20:46,618 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 09:20:46,618 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/public/news-media/court-closings
+2024-10-17 09:20:46,619 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/quickreferenceguide-jury.pdf
+2024-10-17 09:20:46,619 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12255_jury_financial_hardship.pdf
+2024-10-17 09:20:46,619 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 09:20:46,619 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12140_jury_duty_childcare.pdf
+2024-10-17 09:20:46,620 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12308_physician_cert.pdf
+2024-10-17 09:20:46,620 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,620 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,620 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,620 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,620 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,620 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,621 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,622 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,622 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,622 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,622 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,622 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,624 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,624 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,624 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,624 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,624 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,624 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,624 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,625 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,625 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,625 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,625 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,626 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,626 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,626 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,626 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,626 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,627 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,627 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,628 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,628 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,628 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,628 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,629 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,629 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,629 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,629 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,630 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,630 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,630 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,630 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,630 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,631 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,631 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,631 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,631 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,631 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,631 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,632 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,632 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,632 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,632 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,632 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,633 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,633 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,633 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,634 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,634 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/panela.pdf...
+2024-10-17 09:20:46,634 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/panela.pdf
+2024-10-17 09:20:46,634 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,634 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,634 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,635 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,635 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,635 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,635 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,635 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,635 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,635 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,635 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/panelb.pdf...
+2024-10-17 09:20:46,635 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/panelb.pdf
+2024-10-17 09:20:46,635 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,635 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:46,638 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,638 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,638 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,638 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,639 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,639 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,639 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,639 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,639 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,640 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,640 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,640 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,640 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:46,640 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:46,641 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,641 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,641 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,641 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,641 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,642 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,645 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,645 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,645 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,646 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,661 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,661 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,662 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,662 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:46,663 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:46,663 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:46,664 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:46,664 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,665 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,678 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,678 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:46,679 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:46,680 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,681 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,691 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,691 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,691 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,691 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,691 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,692 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,692 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,693 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,693 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:46,693 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:46,693 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:46,693 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:46,693 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 09:20:46,693 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:46,693 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:46,693 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:46,694 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:46,694 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:46,694 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:46,695 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,695 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,696 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,696 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,696 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,696 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,696 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,696 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,696 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,696 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,696 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,696 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,696 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 09:20:46,698 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 09:20:46,698 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 09:20:46,698 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 09:20:46,698 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 09:20:46,698 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 09:20:46,698 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 09:20:46,699 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 09:20:46,699 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 09:20:46,699 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 09:20:46,699 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 09:20:46,699 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 09:20:46,700 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 09:20:46,700 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:46,700 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 09:20:46,700 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 09:20:46,701 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 09:20:46,701 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 09:20:46,701 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 09:20:46,701 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 09:20:46,701 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 09:20:46,701 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 09:20:46,701 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 09:20:46,702 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 09:20:46,702 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 09:20:46,702 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:20:46,702 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12255_jury_financial_hardship.pdf
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12140_jury_duty_childcare.pdf
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12308_physician_cert.pdf
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 09:20:46,703 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/quickreferenceguide-jury.pdf
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,703 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 09:20:46,703 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/hudson
+2024-10-17 09:20:46,703 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/bergen
+2024-10-17 09:20:46,703 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/burlington
+2024-10-17 09:20:46,703 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/passaic
+2024-10-17 09:20:46,703 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/morris-sussex
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 09:20:46,703 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 09:20:46,708 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/monmouth
+2024-10-17 09:20:46,708 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/middlesex
+2024-10-17 09:20:46,708 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 09:20:46,708 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/mercer
+2024-10-17 09:20:46,708 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/camden
+2024-10-17 09:20:46,709 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,709 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 09:20:46,709 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:46,709 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 09:20:46,709 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 09:20:46,710 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomcomp.pdf...
+2024-10-17 09:20:46,710 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomcomp.pdf
+2024-10-17 09:20:46,710 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:46,710 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 09:20:46,710 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:20:46,711 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomios.pdf...
+2024-10-17 09:20:46,711 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomios.pdf
+2024-10-17 09:20:46,711 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomweb.pdf...
+2024-10-17 09:20:46,711 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomweb.pdf
+2024-10-17 09:20:46,712 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 09:20:46,712 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/node/493161...
+2024-10-17 09:20:47,078 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/node/493161
+2024-10-17 09:20:47,078 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/somerset-hunterdon-warren
+2024-10-17 09:20:47,079 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/union
+2024-10-17 09:20:47,079 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/ocean
+2024-10-17 09:20:47,079 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/atlantic-cape-may
+2024-10-17 09:20:47,081 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/essex
+2024-10-17 09:20:47,081 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/atlantic-city
+2024-10-17 09:20:47,082 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/cumberland-gloucester-salem
+2024-10-17 09:20:47,082 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:20:47,082 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 09:20:47,082 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/hudson
+2024-10-17 09:20:47,083 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/bergen
+2024-10-17 09:20:47,083 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/burlington
+2024-10-17 09:20:47,083 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/passaic
+2024-10-17 09:20:47,084 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/morris-sussex
+2024-10-17 09:20:47,085 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 09:20:47,085 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 09:20:47,086 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:47,086 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 09:20:47,086 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 09:20:47,087 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/monmouth
+2024-10-17 09:20:47,087 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/middlesex
+2024-10-17 09:20:47,087 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 09:20:47,088 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/mercer
+2024-10-17 09:20:47,088 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/camden
+2024-10-17 09:20:47,088 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:47,088 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 09:20:47,088 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:47,089 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:47,089 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:47,089 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 09:20:47,089 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 09:20:47,090 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:47,090 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 09:20:47,090 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:20:47,091 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 09:20:47,091 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:47,091 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 09:20:47,091 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 09:20:47,091 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 09:20:47,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 09:20:47,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 09:20:47,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 09:20:47,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 09:20:47,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 09:20:47,093 - INFO - --------------------------------------------------
+2024-10-17 09:20:47,093 - INFO - Script Total Time: 61.40629291534424 seconds
+2024-10-17 09:20:47,093 - INFO - Average Scraping Time Per Page: 1.3534843391842313 seconds
+2024-10-17 09:20:47,093 - INFO - Total Pages Scraped: 45
+2024-10-17 09:20:47,094 - INFO - --------------------------------------------------
+2024-10-17 09:20:51,773 - INFO - Uploading to blob storage...
+2024-10-17 09:20:51,774 - INFO - Uploading Time: 4.630347013473511 seconds
+2024-10-17 09:20:51,774 - INFO - --------------------------------------------------
+2024-10-17 10:23:14,655 - INFO - Fetched Pages From https://www.njcourts.gov/jurors: ['https://www.njcourts.gov/excusal-requests', 'https://www.njcourts.gov/jurors/contact', 'https://www.njcourts.gov/new-jersey-state-grand-jury', 'https://www.njcourts.gov/general-jury-information', 'https://www.njcourts.gov/jurors/service', 'https://www.njcourts.gov/rescheduling-requests', 'https://www.njcourts.gov/jurors/reporting', 'https://www.njcourts.gov/videoconference-instructions', 'https://www.njcourts.gov/jurors/faq']
+2024-10-17 10:23:14,657 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors/faq...
+2024-10-17 10:23:14,775 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:14,775 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/quickreferenceguide-jury.pdf...
+2024-10-17 10:23:14,775 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/quickreferenceguide-jury.pdf
+2024-10-17 10:23:14,775 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors/faq#493196...
+2024-10-17 10:23:14,971 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors/faq#493196
+2024-10-17 10:23:14,971 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/quickreferenceguide-jury.pdf
+2024-10-17 10:23:14,971 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/forms/12255_jury_financial_hardship.pdf...
+2024-10-17 10:23:14,971 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12255_jury_financial_hardship.pdf
+2024-10-17 10:23:14,971 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/videoconference-instructions...
+2024-10-17 10:23:15,124 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 10:23:15,124 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomweb.pdf...
+2024-10-17 10:23:15,124 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomweb.pdf
+2024-10-17 10:23:15,124 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors/reporting...
+2024-10-17 10:23:15,384 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:15,384 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic...
+2024-10-17 10:23:18,772 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:18,773 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:18,773 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:18,774 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland...
+2024-10-17 10:23:21,506 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:21,507 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:21,507 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:21,508 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury...
+2024-10-17 10:23:23,818 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:23,818 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:23,818 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:23,818 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:23,818 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/panela.pdf...
+2024-10-17 10:23:23,818 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/panela.pdf
+2024-10-17 10:23:23,822 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex...
+2024-10-17 10:23:26,127 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:26,127 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:26,127 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:26,127 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:26,127 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:26,127 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors/contact...
+2024-10-17 10:23:26,311 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:26,311 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/bergen
+2024-10-17 10:23:26,312 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:26,312 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:26,313 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/rescheduling-requests...
+2024-10-17 10:23:26,428 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 10:23:26,429 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 10:23:26,430 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:26,430 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors...
+2024-10-17 10:23:26,560 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 10:23:26,560 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:26,560 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 10:23:26,560 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:26,560 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 10:23:26,560 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jurors/service...
+2024-10-17 10:23:26,999 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:23:26,999 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/quickreferenceguide-jury.pdf
+2024-10-17 10:23:27,000 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 10:23:27,000 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:27,000 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:27,001 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 10:23:27,001 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 10:23:27,002 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/general-jury-information...
+2024-10-17 10:23:27,111 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 10:23:27,112 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 10:23:27,113 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:27,113 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 10:23:27,114 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:27,114 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 10:23:27,115 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:23:27,115 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury...
+2024-10-17 10:23:27,275 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 10:23:27,275 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 10:23:27,276 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:27,276 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 10:23:27,276 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:27,277 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 10:23:27,277 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:23:27,278 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 10:23:27,278 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:27,279 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/excusal-requests...
+2024-10-17 10:23:27,374 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 10:23:27,375 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/forms/12308_physician_cert.pdf...
+2024-10-17 10:23:27,375 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12308_physician_cert.pdf
+2024-10-17 10:23:27,375 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12255_jury_financial_hardship.pdf
+2024-10-17 10:23:27,375 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 10:23:27,375 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:27,375 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 10:23:27,375 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:27,375 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 10:23:27,375 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:23:27,375 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 10:23:27,375 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/forms/12140_jury_duty_childcare.pdf...
+2024-10-17 10:23:27,381 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12140_jury_duty_childcare.pdf
+2024-10-17 10:23:27,381 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 10:23:27,381 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:27,382 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:27,382 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 10:23:27,383 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/public/news-media/court-closings
+2024-10-17 10:23:27,383 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 10:23:27,384 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 10:23:27,384 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:27,384 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 10:23:27,384 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 10:23:27,385 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 10:23:27,385 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:27,385 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 10:23:27,385 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:27,385 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:23:27,385 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 10:23:27,385 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 10:23:27,385 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:27,385 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 10:23:27,385 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 10:23:27,385 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 10:23:27,385 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 10:23:27,385 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/monmouth
+2024-10-17 10:23:27,385 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/union
+2024-10-17 10:23:27,385 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/camden
+2024-10-17 10:23:27,385 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/ocean
+2024-10-17 10:23:27,385 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/middlesex
+2024-10-17 10:23:27,391 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/atlantic-cape-may
+2024-10-17 10:23:27,391 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:23:27,391 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/morris-sussex
+2024-10-17 10:23:27,391 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 10:23:27,391 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/cumberland-gloucester-salem
+2024-10-17 10:23:27,392 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/burlington
+2024-10-17 10:23:27,392 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/somerset-hunterdon-warren
+2024-10-17 10:23:27,392 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/hudson
+2024-10-17 10:23:27,393 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/passaic
+2024-10-17 10:23:27,393 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/essex
+2024-10-17 10:23:27,394 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/atlantic-city
+2024-10-17 10:23:27,394 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 10:23:27,395 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 10:23:27,395 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/mercer
+2024-10-17 10:23:27,396 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth...
+2024-10-17 10:23:29,813 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:29,814 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:29,814 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:29,815 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:29,815 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:29,816 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:29,817 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:29,817 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset...
+2024-10-17 10:23:29,945 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:29,946 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:29,946 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:29,947 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:29,947 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:29,948 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:29,949 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:29,949 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:29,949 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris...
+2024-10-17 10:23:33,188 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:33,189 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:33,189 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:33,190 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:33,190 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:33,190 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:33,192 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:33,192 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:33,193 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:33,193 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon...
+2024-10-17 10:23:36,511 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:36,511 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:36,512 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:36,512 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:36,513 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:36,514 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:36,514 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:36,515 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:36,515 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:36,515 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:36,515 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex...
+2024-10-17 10:23:40,003 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:23:40,004 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:40,005 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:40,005 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:40,005 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:40,005 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:40,005 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:40,005 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:40,005 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:40,009 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:40,009 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:40,010 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:40,011 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf...
+2024-10-17 10:23:40,011 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:23:40,012 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex...
+2024-10-17 10:23:42,435 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:23:42,436 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:42,436 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:42,438 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:42,438 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:42,439 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:42,439 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:42,440 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:42,440 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:42,441 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:42,441 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:42,441 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:42,441 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:23:42,442 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:23:42,442 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington...
+2024-10-17 10:23:45,092 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:23:45,092 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:23:45,092 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic...
+2024-10-17 10:23:47,527 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:23:47,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:23:47,542 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:23:47,542 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:23:47,543 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer...
+2024-10-17 10:23:47,789 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:23:47,790 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:47,791 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:47,791 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:47,792 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:47,793 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:47,793 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:47,793 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:47,793 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:47,794 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:47,794 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:47,795 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:23:47,795 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:23:47,796 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:23:47,796 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:23:47,796 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:23:47,797 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden...
+2024-10-17 10:23:47,901 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:23:47,901 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:47,902 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:47,902 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:47,903 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:47,903 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:47,904 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:47,904 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:47,905 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:47,905 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:47,906 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:47,906 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:23:47,906 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:23:47,907 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:23:47,907 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:23:47,908 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:23:47,908 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:23:47,909 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/union...
+2024-10-17 10:23:51,222 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:23:51,223 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:51,224 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:51,224 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:51,225 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:51,225 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:51,225 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:51,226 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:51,226 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:51,226 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:51,227 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:51,227 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:23:51,227 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:23:51,227 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:23:51,228 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:23:51,228 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:23:51,228 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:23:51,229 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:23:51,229 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may...
+2024-10-17 10:23:51,359 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:23:51,359 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:51,359 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:51,359 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:51,359 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:51,359 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:51,361 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:51,361 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:51,361 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:51,361 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:51,361 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:51,361 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:23:51,361 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:23:51,365 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:23:51,366 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:23:51,366 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:23:51,366 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:23:51,366 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:23:51,367 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:23:51,368 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson...
+2024-10-17 10:23:51,524 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:23:51,525 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:51,525 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:51,526 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:51,526 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:51,526 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:51,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:51,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:51,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:51,527 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:51,528 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:51,528 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:51,528 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:23:51,528 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:23:51,529 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:23:51,529 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:23:51,529 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:23:51,530 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:23:51,530 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/public/news-media/court-closings
+2024-10-17 10:23:51,531 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:23:51,531 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:23:51,531 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:23:51,531 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen...
+2024-10-17 10:23:54,131 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:23:54,132 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:23:54,132 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:54,133 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:54,133 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:54,133 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:54,134 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:54,134 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:54,134 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:54,135 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:54,135 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:54,135 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:54,135 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:23:54,135 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:23:54,136 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:23:54,136 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:23:54,136 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:23:54,136 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:23:54,136 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:23:54,137 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:23:54,137 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:23:54,137 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:23:54,138 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren...
+2024-10-17 10:23:57,477 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:23:57,477 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:23:57,485 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:23:57,485 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:23:57,485 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:23:57,485 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:23:57,486 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:23:57,486 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:23:57,487 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:23:57,487 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:23:57,487 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester...
+2024-10-17 10:24:00,221 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:00,221 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:24:00,222 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:24:00,222 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:24:00,222 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:24:00,223 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:24:00,223 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:24:00,223 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:24:00,224 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:24:00,224 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:24:00,226 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:24:00,226 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:24:00,226 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:24:00,227 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:00,227 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:00,227 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:00,227 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:00,228 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:00,228 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:00,229 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:00,229 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:00,230 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:00,230 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:00,231 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem...
+2024-10-17 10:24:03,622 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,623 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:24:03,624 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:24:03,624 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:24:03,624 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:24:03,625 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:24:03,625 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:24:03,626 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:24:03,626 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:24:03,626 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:24:03,626 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:24:03,626 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:24:03,626 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:24:03,627 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:03,627 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,627 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,628 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,628 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,629 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,629 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,629 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,630 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,630 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,630 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,630 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean...
+2024-10-17 10:24:03,894 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,895 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:24:03,896 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/passaic
+2024-10-17 10:24:03,896 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:24:03,896 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:24:03,897 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:24:03,897 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:24:03,897 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:24:03,898 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:24:03,898 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:24:03,899 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:24:03,899 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:24:03,900 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:24:03,900 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:24:03,900 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:03,901 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,901 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,902 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,902 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,902 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,903 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,903 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,903 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,903 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,904 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,904 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,904 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,905 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,905 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,906 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,906 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,906 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,907 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,907 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,908 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,908 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,909 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,909 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,910 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,910 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,910 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,911 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,911 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,911 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,911 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,912 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,912 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,912 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,912 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,912 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,912 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,912 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,913 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,913 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,913 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,913 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,913 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,913 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,913 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,913 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,914 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,914 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,914 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,914 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,914 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,914 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,914 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,915 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,915 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,915 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,915 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,915 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,915 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,915 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,915 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,915 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,916 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,916 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,916 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,917 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,917 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,917 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,917 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,917 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,917 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,917 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,917 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,918 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,918 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,918 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,918 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,918 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,918 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,918 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,918 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,918 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,918 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,918 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,919 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,919 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,919 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,919 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,919 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,919 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,919 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:24:03,919 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:03,919 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,919 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,920 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,920 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,920 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,920 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,920 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,920 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,920 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,920 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,920 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,921 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,921 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:24:03,921 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:24:03,922 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:03,922 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,922 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,922 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,922 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,923 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,923 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,923 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,923 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,923 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,923 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,923 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,924 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,924 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:24:03,924 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:24:03,924 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:24:03,924 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:03,924 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,924 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,924 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,924 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,924 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,925 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,925 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,925 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,925 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,925 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,926 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,926 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,927 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:24:03,927 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:24:03,927 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:24:03,927 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:24:03,927 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:03,927 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,928 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,928 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,928 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,928 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,928 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,928 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,928 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,928 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,929 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,929 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,929 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,929 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:24:03,929 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:24:03,929 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:24:03,930 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:24:03,930 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:24:03,930 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:03,930 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,930 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,930 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,930 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,931 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,931 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,931 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,931 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,932 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,932 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,932 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,932 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,932 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:24:03,933 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:24:03,933 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:24:03,933 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:24:03,933 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:24:03,933 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:03,933 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,933 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,933 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,933 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,934 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,934 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,934 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/panelb.pdf...
+2024-10-17 10:24:03,934 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/panelb.pdf
+2024-10-17 10:24:03,934 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,934 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,934 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,934 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,934 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,935 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,935 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:24:03,935 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:24:03,935 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:24:03,935 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:24:03,935 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:24:03,935 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:24:03,936 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:24:03,936 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:24:03,936 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:03,936 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,936 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,936 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,936 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,937 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,937 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,937 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,937 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,937 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,938 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,938 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,938 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,938 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:24:03,938 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:24:03,938 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:24:03,938 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:24:03,938 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:24:03,938 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:24:03,938 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:24:03,939 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:24:03,939 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:24:03,939 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/notices/2022/07/n220715a.pdf
+2024-10-17 10:24:03,939 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:03,939 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,939 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,939 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,939 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,939 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,939 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,940 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,940 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,940 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,940 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,940 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,940 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,940 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cumberland
+2024-10-17 10:24:03,940 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 10:24:03,940 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/state-grand-jury
+2024-10-17 10:24:03,940 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/sussex
+2024-10-17 10:24:03,941 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:24:03,941 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/somerset
+2024-10-17 10:24:03,942 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/monmouth
+2024-10-17 10:24:03,942 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/morris
+2024-10-17 10:24:03,942 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hunterdon
+2024-10-17 10:24:03,942 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/middlesex
+2024-10-17 10:24:03,943 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/essex
+2024-10-17 10:24:03,943 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/burlington
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/atlantic
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/mercer
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/camden
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/union
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/cape-may
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/hudson
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/bergen
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/warren
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/gloucester
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/salem
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jury-reporting-messages/ocean
+2024-10-17 10:24:03,944 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 10:24:03,946 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:24:03,946 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/node/493161...
+2024-10-17 10:24:04,794 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/node/493161
+2024-10-17 10:24:04,794 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/bergen
+2024-10-17 10:24:04,794 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:24:04,794 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:24:04,794 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 10:24:04,794 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 10:24:04,794 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 10:24:04,794 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:24:04,794 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 10:24:04,794 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/monmouth
+2024-10-17 10:24:04,794 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/union
+2024-10-17 10:24:04,794 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/camden
+2024-10-17 10:24:04,801 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/ocean
+2024-10-17 10:24:04,802 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/middlesex
+2024-10-17 10:24:04,802 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/atlantic-cape-may
+2024-10-17 10:24:04,802 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:24:04,803 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/morris-sussex
+2024-10-17 10:24:04,803 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 10:24:04,803 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/cumberland-gloucester-salem
+2024-10-17 10:24:04,803 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/burlington
+2024-10-17 10:24:04,803 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/somerset-hunterdon-warren
+2024-10-17 10:24:04,803 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/hudson
+2024-10-17 10:24:04,804 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/passaic
+2024-10-17 10:24:04,804 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/essex
+2024-10-17 10:24:04,804 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/atlantic-city
+2024-10-17 10:24:04,804 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 10:24:04,804 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 10:24:04,804 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/courts/vicinages/mercer
+2024-10-17 10:24:04,804 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 10:24:04,805 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:24:04,805 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 10:24:04,805 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomcomp.pdf...
+2024-10-17 10:24:04,805 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomcomp.pdf
+2024-10-17 10:24:04,805 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomandroid.pdf...
+2024-10-17 10:24:04,805 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomandroid.pdf
+2024-10-17 10:24:04,805 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 10:24:04,805 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:24:04,805 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 10:24:04,805 - INFO - <SCRAPING PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomios.pdf...
+2024-10-17 10:24:04,805 - INFO - <COMPLETED PAGE>: https://www.njcourts.gov/sites/default/files/jurors/testingzoomios.pdf
+2024-10-17 10:24:04,805 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:24:04,805 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/faq
+2024-10-17 10:24:04,805 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 10:24:04,805 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12308_physician_cert.pdf
+2024-10-17 10:24:04,805 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 10:24:04,805 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:24:04,808 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 10:24:04,808 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12140_jury_duty_childcare.pdf
+2024-10-17 10:24:04,808 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 10:24:04,810 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 10:24:04,810 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:24:04,810 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 10:24:04,811 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/public/news-media/court-closings
+2024-10-17 10:24:04,811 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12255_jury_financial_hardship.pdf
+2024-10-17 10:24:04,811 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 10:24:04,811 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:24:04,811 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors
+2024-10-17 10:24:04,811 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12308_physician_cert.pdf
+2024-10-17 10:24:04,811 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 10:24:04,811 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/sites/default/files/forms/12140_jury_duty_childcare.pdf
+2024-10-17 10:24:04,813 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 10:24:04,813 - INFO - <SKIPPING PAGE>: https://www.njcourts.gov/public/news-media/court-closings
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/videoconference-instructions
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/reporting
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/rescheduling-requests
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/service
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/general-jury-information
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/new-jersey-state-grand-jury
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/jurors/contact
+2024-10-17 10:24:04,813 - INFO - <PREVIOUSLY SCRAPED PAGE>: https://www.njcourts.gov/excusal-requests
+2024-10-17 10:24:04,813 - INFO - --------------------------------------------------
+2024-10-17 10:24:04,813 - INFO - Script Total Time: 50.29584193229675 seconds
+2024-10-17 10:24:04,813 - INFO - Average Scraping Time Per Page: 1.1087542057037354 seconds
+2024-10-17 10:24:04,813 - INFO - Total Pages Scraped: 45
+2024-10-17 10:24:04,814 - INFO - --------------------------------------------------
+2024-10-17 10:24:16,781 - INFO - Uploading to blob storage...
+2024-10-17 10:24:16,781 - INFO - Uploading Time: 11.910261631011963 seconds
+2024-10-17 10:24:16,782 - INFO - --------------------------------------------------

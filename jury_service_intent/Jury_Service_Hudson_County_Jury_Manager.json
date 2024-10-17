@@ -1,0 +1,21 @@
+{
+    "intent": "Jury_Service_Hudson_County_Jury_Manager",
+    "questions": [
+        "can you assist me with how do I contact the jury management office in Hudson County?�",
+        "can you tell me how do I contact the jury management office in Hudson County?",
+        "Contacting Hudson Jury manager",
+        "does anyone there know how do I contact the jury management office in Hudson County?�",
+        "How do I contact the jury management office in Hudson County?",
+        "Hudson County jury management",
+        "is there anyway to find how do I contact the jury management office in Hudson County?",
+        "Jury Management of Hudson County",
+        "Trying to see how do I contact the jury management office in Hudson County?",
+        "what can I do to find out how do I contact the jury management office in Hudson County?�",
+        "What is contact information for Hudson County jury management?�",
+        "will you be able to tell me how do I contact the jury management office in Hudson County?�"
+    ],
+    "answers": [
+        "General information related to Jury Service can be found on the Court's website <a href=\" https://www.njcourts.gov/jurors\">Visit Jurors Page</a> ",
+        "If you have questions or are looking for contact information related to Jury Service, information can be found on the Courts Website <a href=\"https://www.njcourts.gov/jurors/reporting\">Reporting Information</a> by clicking the county your service is located. You may also contact your local Jury Manager <a href=\"https://www.njcourts.gov/jurors/contact\">Jury Management Office Contact List</a> for assistance."
+    ]
+}

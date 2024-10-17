@@ -1,5 +1,6 @@
 import base64
 import json
+import re
 
 import requests
 from azure.storage.blob import ContainerClient
@@ -89,7 +90,7 @@ def scrape_page(url: str) -> Page | None:
     """
 
     split_url = url.split(".")
-    page = {}
+    page = {"source": "website"}
 
     # split urls > 3 indicate its a file url
     if len(split_url) > 3:
@@ -102,10 +103,8 @@ def scrape_page(url: str) -> Page | None:
         soup = get_soup(url)
         content = soup.find("div", {"id": "page-content"})
         page["title"] = soup.find("title").string
+        page["text"] = re.sub(r"\s+", " ", content.text)
         page["is_file"] = False
-        page["text"] = (
-            content.text.replace("\n", " ").replace("\r", " ").replace("\t", " ").replace("  ", " ").replace("  ", " ")
-        )
 
         page["child_pages"] = get_urls(content)
         if url in page["child_pages"]:

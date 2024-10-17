@@ -1,0 +1,10 @@
+{
+    "intent": "Jury_Service_Does_My_Employer_Have_To_Pay_For_Jury_Duty",
+    "questions": [
+        "Does my employer have to pay me while I am on jury duty?",
+        "Is My Employer Required to Pay Me For Days I Served As a Juror?"
+    ],
+    "answers": [
+        "In New Jersey there is no statutory requirement that a private employer pay your salary during juror service. Whether or not your employer pays you for jury duty depends on your employment situation, including employers' policies, union contracts, and the like. The State of New Jersey will pay you the appropriate juror fee as set forth in the New Jersey statutes.  If service as a juror will create a severe financial hardship, you may request to be excused. You may request to be excused via the Juror Response ePortal. To access the portal <a href=\"https://https://www.njcourts.gov/myjuryservice/mobileWelcome.aspx?val=N\">click here</a>"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "intent": "Jury_Service_Reporting_For_Jury_Service",
+    "questions": [
+        "Hello I need information on reporting for jury service I do not have my summons (destroyed) and I am here for jury duty. What do I do?",
+        "Hi, what do I do to report for jury service?",
+        "how do i report to jury service?",
+        "Reporting for jury service",
+        "Where do i report for jury service?",
+        "Who do i contact about jury service?"
+    ],
+    "answers": [
+        "For specific information related to reporting for your jury service please contact your local Jury Managers Office Directly. Contact information can be found on the New Jersey Courts website. <a href=\"https://www.njcourts.gov/jurors/reporting\">Visit Jury Reporting Information</a>"
+    ]
+}

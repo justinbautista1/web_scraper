@@ -1,0 +1,15 @@
+{
+    "intent": "Jury_Service_Grand_Jury_Summons",
+    "questions": [
+        "Do I have jury duty tomorrow?",
+        "grand jury",
+        "Hello please help I received a summons for State Grand Jury. Who do I need to speak to?�",
+        "How do I know what date I have to report to jury duty if I lost the summons?",
+        "I received a summons for State Grand Jury. Who do I need to speak to?",
+        "state grand jury summons",
+        "who do I talk to about grand jury�"
+    ],
+    "answers": [
+        "If you are calling about jury service, be prepared to provide your name, and the nine digit number shown under the bar code on your juror summons. That information will allow Jury Management Office staff to answer your questions more quickly and more directly. The contact information for your specific county jury management office may be found at <a> https://www.njcourts.gov/jurors/juryreporting.html </a> For State Grand Jury inquiries please contact State Grand Jury at (609)571-4200 x74375. "
+    ]
+}
