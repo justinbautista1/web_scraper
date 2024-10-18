@@ -1,12 +1,20 @@
 {
-    "intent": "Jury_Service_Penalty_For_Not_Appearing_For_Jury_Duty",
-    "questions": [
-        "If I do not appear for jury duty what will happen?",
-        "penalty for not showing up for jury duty",
-        "What Are the Penalties For Failing to Return My Qualification Questionnaire or Not Reporting For Service?",
-        "Will I get in trouble for avoiding jury duty?"
-    ],
-    "answers": [
-        "Jurors who fail to respond or appear for jury duty, without a reasonable excuse, may be held in  contempt of court pursuant to N.J.S.A. 2B: 20-14b and subject to a fine of up to $500.00 or imprisonment. If you are unsure if you have to show up for jury duty or have any questions at all related to your reporting time(s), please contact the local Jury Manager’s office directly. If you do not know the contact information you can <a href=\"https://www.njcourts.gov/jurors/contact\">Visit the Jury Management Office Contact List</a> on the Court’s website. "
-    ]
+  "intent": "Jury_Service_Penalty_For_Not_Appearing_For_Jury_Duty",
+  "questions": [
+    "If I do not appear for jury duty what will happen?",
+    "penalty for not showing up for jury duty",
+    "What Are the Penalties For Failing to Return My Qualification Questionnaire or Not Reporting For Service?",
+    "Will I get in trouble for avoiding jury duty?",
+    "what happens if i miss jury duty",
+    "what is the penality for missing jury duty",
+    "I missed my reporting time for jury duty. What can i do?",
+    "I forgot i had jury duty. What should I do.",
+    "I forgot to respond to the jury questionnaire. what should I do",
+    "what if I'm late to jury duty?",
+    "what if I'm late to jury duty?",
+    "are there fines for skipping jury duty?"
+  ],
+  "answers": [
+    "Jurors who fail to respond or appear for jury duty, without a reasonable excuse, may be held in contempt of court pursuant to N.J.S.A. 2B: 20-14b and subject to a fine of up to $500.00 or imprisonment. If you are unsure if you have to show up for jury duty or have any questions at all related to your reporting time(s), please contact the local Jury Manager’s office directly. If you do not know the contact information you can <a href=\"https://www.njcourts.gov/jurors/contact\">Visit the Jury Management Office Contact List</a> on the Court’s website. "
+  ]
 }

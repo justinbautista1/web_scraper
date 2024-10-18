@@ -1,11 +1,12 @@
 {
-    "intent": "Jury_Service_Can_I_Be_Fired_For_Serving_On_Jury_Duty",
-    "questions": [
-        "Can my employer fire me for missing work do to jury duty?",
-        "Is There Protection For My Employment While I Serve As a Juror?",
-        "Will I be fired for serving on jury duty?"
-    ],
-    "answers": [
-        "NJSA 2B:20.17 prohibits an employer from penalizing you because you serve as a juror. Penalties for a violation of this statute include the possibility of a criminal charge, as a disorderly persons offense, and a possible civil action for monetary damages and for reinstatement of employment."
-    ]
+  "intent": "Jury_Service_Can_I_Be_Fired_For_Serving_On_Jury_Duty",
+  "questions": [
+    "Can my employer fire me for missing work do to jury duty?",
+    "Is There Protection For My Employment While I Serve As a Juror?",
+    "Will I be fired for serving on jury duty?",
+    "What protects an employee from being fired by an employer for not working due to jury duty"
+  ],
+  "answers": [
+    "NJSA 2B:20.17 prohibits an employer from penalizing you because you serve as a juror. Penalties for a violation of this statute include the possibility of a criminal charge, as a disorderly persons offense, and a possible civil action for monetary damages and for reinstatement of employment."
+  ]
 }

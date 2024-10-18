@@ -115,7 +115,11 @@ def scrape_page(url: str) -> Page | None:
     return page
 
 
-def upload_to_blob(container_client: ContainerClient, pages: dict[Page]) -> None:
+def upload_to_blob(container_client: ContainerClient, pages: dict[Page], directory: str | None = None) -> None:
+    path = ""
+    if directory:
+        path = f"{directory}/"
+
     for page_url, page_content in pages.items():
         metadata = {"url": page_url}
         metadata.update(page_content)
@@ -129,7 +133,7 @@ def upload_to_blob(container_client: ContainerClient, pages: dict[Page]) -> None
             metadata["child_pages"] = str(metadata["child_pages"])
             metadata["is_file"] = str(metadata["is_file"])
 
-            blob_name = f"{encoded_str}.{file_extension}"
+            blob_name = f"{path}{encoded_str}.{file_extension}"
             blob_client = container_client.get_blob_client(blob_name)
             blob_client.upload_blob_from_url(page_url, overwrite=True)
             blob_client.set_blob_metadata(metadata)
@@ -146,6 +150,6 @@ def upload_to_blob(container_client: ContainerClient, pages: dict[Page]) -> None
             metadata["child_pages"] = str(metadata["child_pages"])
             metadata["is_file"] = str(metadata["is_file"])
 
-            blob_name = f"{encoded_str}.json"
+            blob_name = f"{path}{encoded_str}.json"
             blob_client = container_client.get_blob_client(blob_name)
             blob_client.upload_blob(data, metadata=metadata, overwrite=True)

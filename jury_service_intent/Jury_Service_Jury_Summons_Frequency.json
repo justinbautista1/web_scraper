@@ -1,20 +1,20 @@
 {
-    "intent": "Jury_Service_Jury_Summons_Frequency",
-    "questions": [
-        "can you explain Why Do I Seem to Get Summoned Frequently but Others Don't?",
-        "Can you say why I get more jury summons then anyone else",
-        "does questionnaire get filled out online",
-        "do I fill out questionnaire online or in person",
-        "I get more summons for jury duty then my neighbors why?",
-        "I get more summons to jury duty then ever before�",
-        "is there a reason Why Do I Seem to Get Summoned Frequently but Others Don't?",
-        "Jury summons issues",
-        "please let me know Why Do I Seem to Get Summoned Frequently but Others Don't?",
-        "who can I talk to about Why Do I Seem to Get Summoned Frequently but Others Don't?",
-        "Why Do I Seem to Get Summoned Frequently but Others Don't?",
-        "will you please inform me as to Why Do I Seem to Get Summoned Frequently but Others Don't?"
-    ],
-    "answers": [
-        "If you have received a jury summons and have questions about jury selection, information can be found on the Court’s website <a href=\"https://www.njcourts.gov/jurors/service\">Respond to a Jury Notice </a>. You may also contact your local Jury Manager <a href=\"https://www.njcourts.gov/jurors/contact\">Jury Management Office Contact List</a> for assistance."
-    ]
+  "intent": "Jury_Service_Jury_Summons_Frequency",
+  "questions": [
+    "can you explain Why Do I Seem to Get Summoned Frequently but Others Don't?",
+    "Can you say why I get more jury summons then anyone else",
+    "does questionnaire get filled out online",
+    "do I fill out questionnaire online or in person",
+    "I get more summons for jury duty then my neighbors why?",
+    "I get more summons to jury duty then ever before",
+    "is there a reason Why Do I Seem to Get Summoned Frequently but Others Don't?",
+    "Jury summons frequency issues",
+    "please let me know Why Do I Seem to Get Summoned Frequently but Others Don't?",
+    "who can I talk to about Why Do I Seem to Get Summoned Frequently but Others Don't?",
+    "Why Do I Seem to Get Summoned Frequently but Others Don't?",
+    "will you please inform me as to Why Do I Seem to Get Summoned Frequently but Others Don't?"
+  ],
+  "answers": [
+    "If you have received a jury summons and have questions about jury selection, information can be found on the Court’s website <a href=\"https://www.njcourts.gov/jurors/service\">Respond to a Jury Notice </a>. You may also contact your local Jury Manager <a href=\"https://www.njcourts.gov/jurors/contact\">Jury Management Office Contact List</a> for assistance."
+  ]
 }

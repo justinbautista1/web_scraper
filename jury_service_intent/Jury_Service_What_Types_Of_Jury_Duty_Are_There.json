@@ -1,11 +1,11 @@
 {
-    "intent": "Jury_Service_What_Types_Of_Jury_Duty_Are_There",
-    "questions": [
-        "What Are the Different Types of Juror Service For Which I Might Be Summoned By the New Jersey Judiciary?",
-        "What do jurors do",
-        "what kinds of jury duty are there"
-    ],
-    "answers": [
-        " You may be summoned to serve as a Petit Juror, a Grand Juror, or a State Grand Juror. Petit jurors who sit on a criminal trial decide guilt or innocence in a criminal matter. Petit jurors who sit on a civil trial decide liability or damages. A Grand Jury determines whether there is enough evidence to move forward with criminal charges against a defendant."
-    ]
+  "intent": "Jury_Service_What_Types_Of_Jury_Duty_Are_There",
+  "questions": [
+    "What Are the Different Types of Juror Service For Which I Might Be Summoned By the New Jersey Judiciary?",
+    "What do jurors do",
+    "what kinds of jury duty are there"
+  ],
+  "answers": [
+    "You may be summoned to serve as a Petit Juror, a Grand Juror, or a State Grand Juror. Petit jurors who sit on a criminal trial decide guilt or innocence in a criminal matter. Petit jurors who sit on a civil trial decide liability or damages. A Grand Jury determines whether there is enough evidence to move forward with criminal charges against a defendant."
+  ]
 }

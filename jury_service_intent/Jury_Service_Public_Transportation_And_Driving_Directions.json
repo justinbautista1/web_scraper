@@ -1,12 +1,12 @@
 {
-    "intent": "Jury_Service_Public_Transportation_And_Driving_Directions",
-    "questions": [
-        "How can I find out if there is public transportation to my courthouse?",
-        "How do I get public transportation information or driving directions?�",
-        "Is there public transportation to the court house?�",
-        "Where Can I Locate Public Transportation Information and/or Driving Directions?"
-    ],
-    "answers": [
-        "Public transportation information can be found by searching online. For a complete list of locations and directions for each county <a href=\"https://https://www.njcourts.gov/jurors/reporting\">click here</a>"
-    ]
+  "intent": "Jury_Service_Public_Transportation_And_Driving_Directions",
+  "questions": [
+    "How can I find out if there is public transportation to my courthouse?",
+    "How do I get public transportation information or driving directions?",
+    "Is there public transportation to the court house?",
+    "Where Can I Locate Public Transportation Information and/or Driving Directions?"
+  ],
+  "answers": [
+    "Public transportation information can be found by searching online. For a complete list of locations and directions for each county <a href=\"https://https://www.njcourts.gov/jurors/reporting\">click here</a>"
+  ]
 }

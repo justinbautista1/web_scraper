@@ -1,21 +1,22 @@
 {
-    "intent": "Jury_Service_Do_I_Have_Jury_Duty",
-    "questions": [
-        "can you tell me what time i need to report",
-        "Do I have jury duty this week?",
-        "hello do I have jury duty this week",
-        "Help, I missed jury duty because I forgot",
-        "hi do I have jury duty this week",
-        "Hi have lost juror paper with instructions and my number I have to report tomorrow please help",
-        "hi when do I report for jury duty�",
-        "I accidentally missed jury duty",
-        "I have jury duty in a few hours but can't make it what can I do",
-        "I missed my jury service today I had the wrong date",
-        "reporting time",
-        "When do I report for jury duty?�",
-        "where can I find information about my reporting time"
-    ],
-    "answers": [
-        "General information related to jury service may be found on the Judiciary’s website, <a href=\" https://www.njcourts.gov/jurors\">Visit Here</a>. If you are trying to see about reporting for jury service, please contact the appropriate jury management office. A list of offices may be found <a href=\" https://www.njcourts.gov/jurors/reporting\">Here</a>. Please be prepared to provide your name, and the nine-digit number shown under the bar code on your juror summons. That information will allow Jury Management Office staff to answer your questions more quickly and more directly."
-    ]
+  "intent": "Jury_Service_Do_I_Have_Jury_Duty",
+  "questions": [
+    "can you tell me what time i need to report",
+    "Do I have jury duty this week?",
+    "hello do I have jury duty this week",
+    "Help, I missed jury duty because I forgot",
+    "hi do I have jury duty this week",
+    "Hi have lost juror paper with instructions and my number I have to report tomorrow please help",
+    "hi when do I report for jury duty",
+    "I accidentally missed jury duty",
+    "I have jury duty in a few hours but can't make it what can I do",
+    "I missed my jury service today I had the wrong date",
+    "reporting time",
+    "When do I report for jury duty?",
+    "where can I find information about my reporting time",
+    "What time do I have to report at for jury duty?"
+  ],
+  "answers": [
+    "General information related to jury service may be found on the Judiciary’s website, <a href=\" https://www.njcourts.gov/jurors\">Visit Here</a>. If you are trying to see about reporting for jury service, please contact the appropriate jury management office. A list of offices may be found <a href=\" https://www.njcourts.gov/jurors/reporting\">Here</a>. Please be prepared to provide your name, and the nine-digit number shown under the bar code on your juror summons. That information will allow Jury Management Office staff to answer your questions more quickly and more directly."
+  ]
 }

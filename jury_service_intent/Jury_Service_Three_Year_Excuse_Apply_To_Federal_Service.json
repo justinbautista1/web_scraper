@@ -1,19 +1,19 @@
 {
-    "intent": "Jury_Service_Three_Year_Excuse_Apply_To_Federal_Service",
-    "questions": [
-        "can you tell me Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
-        "Does federal grand jury service count as state grand jury service?",
-        "does federal grand jury service count as state grand jury service as well",
-        "Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
-        "Federal grand jury affect on superior court jury service",
-        "I am really just trying to know Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
-        "I really need to know Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
-        "I would like to know Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
-        "Please let me know Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
-        "where can I find out Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
-        "will serving on any jury exclude me from other service"
-    ],
-    "answers": [
-        "The three year excuse does not apply to federal jury service. Recent service as a federal juror does not automatically relieve you from your petit jury civic obligation but you should include that information on your juror qualification questionnaire and provide verification of your federal jury service. It may lead to your service being rescheduled."
-    ]
+  "intent": "Jury_Service_Three_Year_Excuse_Apply_To_Federal_Service",
+  "questions": [
+    "can you tell me Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
+    "Does federal grand jury service count as state grand jury service?",
+    "does federal grand jury service count as state grand jury service as well",
+    "Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
+    "Federal grand jury affect on superior court jury service",
+    "I am really just trying to know Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
+    "I really need to know Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
+    "I would like to know Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
+    "Please let me know Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
+    "where can I find out Does Recent Service As a Federal Juror Affect My Scheduled Service In the NJ Superior Court?",
+    "will serving on any jury exclude me from other service"
+  ],
+  "answers": [
+    "The three year excuse does not apply to federal jury service. Recent service as a federal juror does not automatically relieve you from your petit jury civic obligation but you should include that information on your juror qualification questionnaire and provide verification of your federal jury service. It may lead to your service being rescheduled."
+  ]
 }

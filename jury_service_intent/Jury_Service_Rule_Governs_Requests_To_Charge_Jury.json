@@ -1,18 +1,18 @@
 {
-    "intent": "Jury_Service_Rule_Governs_Requests_To_Charge_Jury",
-    "questions": [
-        "Hello what are the amendments to the rule regarding requests to charge the jury",
-        "Hi JIA what dictates requests to charge the jury",
-        "How does the court know how requests to charge the jury work?",
-        "Is there a rule governing the requests to charge the jury?",
-        "requests to charge the jury",
-        "What dictates requests to charge the jury?",
-        "what rule governs requests to charge the jury?",
-        "what were the amendments to the rule to charge a jury?",
-        "why was I not informed that the rule to request to charge a jury amended",
-        "why was my request to charge the jury done this way?"
-    ],
-    "answers": [
-        "Requests to charge the jury are governed by Rule 1:8-7.  To view Rule 1:87 <a href=\"https://https://www.njcourts.gov/attorneys/rules-of-court/requests-charge-jury\">click here</a>"
-    ]
+  "intent": "Jury_Service_Rule_Governs_Requests_To_Charge_Jury",
+  "questions": [
+    "Hello what are the amendments to the rule regarding requests to charge the jury",
+    "Hi what dictates requests to charge the jury",
+    "How does the court know how requests to charge the jury work?",
+    "Is there a rule governing the requests to charge the jury?",
+    "requests to charge the jury",
+    "What dictates requests to charge the jury?",
+    "what rule governs requests to charge the jury?",
+    "what were the amendments to the rule to charge a jury?",
+    "why was I not informed that the rule to request to charge a jury amended",
+    "why was my request to charge the jury done this way?"
+  ],
+  "answers": [
+    "Requests to charge the jury are governed by Rule 1:8-7.  To view Rule 1:87 <a href=\"https://https://www.njcourts.gov/attorneys/rules-of-court/requests-charge-jury\">click here</a>"
+  ]
 }

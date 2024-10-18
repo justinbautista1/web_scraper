@@ -1,15 +1,15 @@
 {
-    "intent": "Jury_Service_Directions_Contact",
-    "questions": [
-        "Directions",
-        "Directions to jury duty",
-        "Jury Contact",
-        "Jury Contact info",
-        "Jury Directions",
-        "Jury Phone Number",
-        "Jury Service Directions"
-    ],
-    "answers": [
-        "If you need directions or contact information related to Jury Service, information can be found on the Courts Website <a href=\"https://www.njcourts.gov/jurors/reporting\">Reporting Information</a> by clicking the county your service is located. You may also contact your local Jury Manager <a href=\"https://www.njcourts.gov/jurors/contact\">Jury Management Office Contact List</a> for assistance."
-    ]
+  "intent": "Jury_Service_Directions_Contact",
+  "questions": [
+    "Directions for jury duty",
+    "Directions to jury duty",
+    "Jury Contact",
+    "Jury Contact info",
+    "Jury Directions",
+    "Jury Phone Number",
+    "Jury Service Directions"
+  ],
+  "answers": [
+    "If you need directions or contact information related to Jury Service, information can be found on the Courts Website <a href=\"https://www.njcourts.gov/jurors/reporting\">Reporting Information</a> by clicking the county your service is located. You may also contact your local Jury Manager <a href=\"https://www.njcourts.gov/jurors/contact\">Jury Management Office Contact List</a> for assistance."
+  ]
 }

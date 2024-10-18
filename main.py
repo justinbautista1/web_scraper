@@ -136,8 +136,9 @@ container_client = ContainerClient.from_connection_string(
     conn_str=os.getenv("AZURE_STORAGE_CONN_STR"), container_name="internet-jury"
 )
 
+directory = "website"
 upload_start = time.time()
-utils.upload_to_blob(container_client, pages)
+utils.upload_to_blob(container_client=container_client, pages=pages, directory=directory)
 upload_end = time.time()
 
 upload_time = upload_end - upload_start
