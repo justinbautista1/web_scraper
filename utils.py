@@ -78,6 +78,38 @@ def get_soup(url: str) -> BeautifulSoup:
     return soup
 
 
+def scrape_faq_content() -> list[dict[str, Page | str]]:
+    url = "https://www.njcourts.gov/jurors/faq"
+
+    soup = get_soup(url)
+    page_title = soup.find("title").string
+    content = soup.find("article", {"about": "/jurors/faq"})
+    faq_content = content.find_all("li", {"class": "mt-3 faq-item"})
+    faqs = []
+
+    for faq in faq_content:
+        page_faq_pair = {}
+        question = faq.find("h3")
+        faq_id = question["id"]
+        faq_title = question.text.strip().lstrip("Q. ").strip()
+
+        page_faq = {"source": "website"}
+        page_faq["title"] = f"{page_title} | {faq_title}"
+        page_faq["text"] = re.sub(r"\s+", " ", faq.text)
+        page_faq["is_file"] = False
+        page_faq["parent_pages"] = [url, "https://www.njcourts.gov/jurors"]
+
+        page_faq["child_pages"] = get_urls(faq)
+        page_faq["child_pages"] = [child_page for child_page in page_faq["child_pages"] if url not in child_page]
+
+        page_faq_pair["url"] = f"{url}#{faq_id}"
+        page_faq_pair["faq"] = page_faq
+
+        faqs.append(page_faq_pair)
+
+    return faqs
+
+
 def scrape_page(url: str) -> Page | None:
     """
     Scrape page by extracting text and urls

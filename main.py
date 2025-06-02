@@ -52,16 +52,39 @@ logger.addHandler(file_handler)
 
 #### SCRIPT STARTS ####
 script_start = time.time()
+pages_scraped = 0
+scraping_times = []
 
 MAIN_URL = "https://www.njcourts.gov/jurors"
 main_soup = utils.get_soup(MAIN_URL)
 main_content = main_soup.find("div", {"id": "page-content"})
 page_urls = utils.get_urls(main_content)
 
+# FAQs require special scraping
+logger.info("--FAQ requires special scraping--")
+logger.info("<SCRAPING PAGE>: %s/faq...", MAIN_URL)
+
+faq_start = time.time()
+faqs = utils.scrape_faq_content()
+faq_end = time.time()
+scraping_times.append(faq_end - faq_start)
+pages_scraped += 1
+
+pages = {faq["url"]: faq["faq"] for faq in faqs}
+faq_child_urls = []
+for faq in faqs:
+    for child_page in faq["faq"]["child_pages"]:
+        faq_url = {"url": child_page, "parent_url": faq["url"]}
+        faq_child_urls.append(faq_url)
+
+logger.info("<COMPLETED PAGE>: %s/faq", MAIN_URL)
 logger.info("Fetched Pages From %s: %s", MAIN_URL, page_urls)
 
+plain_faq_child_urls = [faq["url"] for faq in faq_child_urls]
+logger.info("Pages Extended From %s/faq: %s", MAIN_URL, plain_faq_child_urls)
+
 page_stack = [{"url": url, "parent_url": MAIN_URL} for url in page_urls]
-pages = {}
+page_stack.extend(faq_child_urls)
 # {
 #     url: {
 #         title: "title"
@@ -81,10 +104,9 @@ pages_to_ignore = [
     "https://www.njmcdirect.com/",
     "https://www.njcourts.gov/courts",
     "https://www.njcourts.gov/public",
+    "https://www.njcourts.gov/jurors/faq",
+    "https://www.njcourts.gov/jury-reporting-messages",
 ]
-
-pages_scraped = 0
-scraping_times = []
 
 while page_stack:
     url = page_stack.pop()
